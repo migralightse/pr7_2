@@ -1,0 +1,46 @@
+/* Ваші стилі тут */
+/* Стилі для заголовків */
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Стилі для тексту */
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Стилі для навігаційного меню */
+.navbar {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #333;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #007bff;
+}
+
+/* Стилі для секцій */
+section {
+    padding: 50px 0;
+}
+
+/* Стилі для футера */
+footer {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
